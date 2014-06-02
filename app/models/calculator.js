@@ -28,7 +28,6 @@ class Calculator{
 		});
 		top = top.reduce(function(prev, curr){return prev + curr;}, 0);
 		return `${top}/${commonDen}`;
-		
 	}
 
 }
