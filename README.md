@@ -1,9 +1,3 @@
-Server Template
-===============
+[![Build Status](https://travis-ci.org/Courey/tdd-calc.svg?branch=master)](https://travis-ci.org/Courey/tdd-calc)
 
-- Node.js
-- Express
-- MongoDB
-- Traceur
-- Jade
-- Less
+TDD calculator app
